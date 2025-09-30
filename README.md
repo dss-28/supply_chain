@@ -1,6 +1,3 @@
-Perfect 💡 — I’ll make your **AI for Supply Chain Optimization 🚚📦🌾** README just as polished and attractive as the crop one.
-Here’s a GitHub-ready version with emojis, badges, placeholders for visuals, and a clean repo structure:
-
 ---
 
 # AI for Supply Chain Optimization 🚚📦🌾
